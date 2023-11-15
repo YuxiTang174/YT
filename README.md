@@ -1,8 +1,7 @@
 # Example of work
 
-The main task is to work towards writing a function get_classification() to find out the classification of an award based on the records of 3 years of study of a given student. 
+The main task is to write a function get_classification() to find out every LSE student's classification of an award based on the records of 3 years of study of a given student. 
 
-Here are some rules and important values for calculating the classification:
 
 Resit rule:
 
